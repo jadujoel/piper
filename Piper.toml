@@ -3,5 +3,5 @@
 # ffmpeg_path = "node_modules/ffmpeg-helper/ffmpeg-darwin-x64.app/Contents/MacOS/ffmpeg-darwin-x64" # MacOS
 buffer_size = 10240
 filters = ["arnndn=m=bd.rnnn"]
-input_device_name = "BlackHole 2ch"
-output_device_name = "MacBook Pro Speakers"
+# input_device_name = "BlackHole 2ch"
+# output_device_name = "MacBook Pro Speakers"

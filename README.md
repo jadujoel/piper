@@ -1,5 +1,13 @@
 # Run Audio Through FFMPEG
 
+## Oneliner
+
+```bash
+git clone git@github.com:jadujoel/piper.git && cd piper && npm install && node index.mjs
+```
+
+Above will clone the repo, install the dependencies and start the app (as long as you have ffmpeg in your path).
+
 ## Setup
 
 ```bash
