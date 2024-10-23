@@ -1,7 +1,6 @@
 
 # ffmpeg_path = "node_modules/ffmpeg-helper/win32-x64.exe" # Windows
 # ffmpeg_path = "node_modules/ffmpeg-helper/ffmpeg-darwin-x64.app/Contents/MacOS/ffmpeg-darwin-x64" # MacOS
-# ffmpeg_path = "node_modules/ffmpeg-helper/win32-x64.exe" # Windows
 buffer_size = 10240
 filters = ["arnndn=m=bd.rnnn"]
 input_device_name = "BlackHole 2ch"
